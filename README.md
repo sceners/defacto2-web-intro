@@ -1,2 +1,7 @@
-# defacto2-web-intro
-Defacto2 Web-Intro by Electric Druggies for Windows, 2007.
+# Defacto2 Web-Intro
+
+#### Written in 2007 April for Windows.
+
+By Electric Druggies for Defacto2.
+
+[Original package](https://defacto2.net/f/b5260f7)
